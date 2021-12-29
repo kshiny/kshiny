@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello, My name is SooHyun-Kim! 👋
+
+##         ⚒️ Tech Stack ⚒️
+
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kshiny)](https://github.com/anuraghazra/github-readme-stats)
 
