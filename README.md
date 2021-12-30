@@ -1,6 +1,6 @@
 ### Hello, My name is SooHyun-Kim! 👋
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kshiny&show_icons=true&theme=ayu-mirage)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kshiny&show_icons=true&theme=flag-india)
 
 <!--
 **kshiny/kshiny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
