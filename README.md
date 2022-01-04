@@ -3,7 +3,6 @@
 I am interested in data science and deep learning and machie learning.
 
 ### My Github Stats 😺
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kshiny&show_icons=true&theme=gruvbox)
 
 <!--
 **kshiny/kshiny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
