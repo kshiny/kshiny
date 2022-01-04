@@ -1,7 +1,7 @@
 ### Hello, My name is SooHyun-Kim! 👋
 I am interested in data science and deep learning and machie learning.
 
-<center>  ### My Github Stats 😺 </center>
+### <center> My Github Stats 😺 </center>
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kshiny&show_icons=true&theme=gruvbox)
 
 <!--
