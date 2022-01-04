@@ -1,4 +1,4 @@
-<div align=center><h1>Hi, I’m SooHyun-Kim 👋</h1>
+<div align=center><h1>Hi, I’m Soohyun-Kim 👋</h1>
   <h4>This is my Github page.
   <br>I am interested in data science and deep learning and machie learning.<br/></h4>
   
