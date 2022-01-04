@@ -1,6 +1,6 @@
 <div align=center><h1>Hi, I’m Soohyun-Kim 👋</h1>
   <h4>This is my Github page.
-  <br>I am interested in Data Science and Deep Learning and Machie Learning.<br/></h4>
+  <br>I am interested in Data Science, Deep Learning and Machie Learning.<br/></h4>
   
  ----
   <h3>My Github Stats 😺</h3>
