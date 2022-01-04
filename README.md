@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 -->
 
 <div align=center><h1>Hi, I’m SooHyun-Kim 👋</h1></div>
-<div align=center>
 
   <div align=center><h3>My Github Stats 😺</h3></div>
+   ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kshiny&show_icons=true&theme=gruvbox)
 <img
 src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://byul91oh.tistory.com/"
 style="height : auto; margin-left : 10px; margin-right : 10px;"/>
