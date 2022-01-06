@@ -26,6 +26,6 @@
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 <img src="https://img.shields.io/badge/Aws-232F3E?style=for-the-badge&logo=aws&logoColor=white"></br>
 <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/NaverBlog-03C75A?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/Naver-Blog-03C75A?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=github&logoColor=white">
 </div></br>
