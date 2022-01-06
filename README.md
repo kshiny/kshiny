@@ -15,10 +15,10 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=linux&logoColor=black">
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=mariaDB&logoColor=white">
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=Spring&logoColor=white">
+<br><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=Spring&logoColor=white">
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=oracle&logoColor=white">
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=oracle&logoColor=white">
-<br><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=bootstrap&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=bootstrap&logoColor=white">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 <img src="https://img.shields.io/badge/Aws-232F3E?style=for-the-badge&logo=aws&logoColor=white">
 <br></br>
