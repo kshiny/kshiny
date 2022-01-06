@@ -5,15 +5,13 @@
  ----
   
  <h3>😺 My Github Stats 😺</h3>
-<h4>Techs that I've used at least once</h4>
-
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kshiny&show_icons=true&theme=gruvbox)
 
 
 ----
 
 <h3>🛠️ My Stack 🛠️ </h3>
+  <h4>Techs that I've used at least once</h4>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=linux&logoColor=black">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=linux&logoColor=black">
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=mysql&logoColor=white">
