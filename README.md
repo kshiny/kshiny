@@ -4,15 +4,11 @@
   
  ----
   
-  
-  
   <h3>😺 My Github Stats 😺</h3>
-  Techs that I've used at least once
+  <br>Techs that I've used at least once</br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kshiny&show_icons=true&theme=gruvbox)
 
-  
-  
-  
+ 
 ----
 
 <h3>🛠️ My Stack 🛠️ </h3>
