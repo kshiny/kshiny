@@ -12,7 +12,7 @@
 <div align=center>
 <h3>🛠️ My Stack 🛠️ </h3>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=linux&logoColor=black">
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=linux&logoColor=black">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=linux&logoColor=black">
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=mariaDB&logoColor=white">
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=Spring&logoColor=white">
