@@ -8,11 +8,7 @@
 <h4>Techs that I've used at least once</h4>
 
 
-
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kshiny&show_icons=true&theme=gruvbox)
-
-
 
 
 ----
