@@ -5,8 +5,8 @@
  ----
   
 <br><h3>😺 My Github Stats 😺</h3>
-<h4>Techs that I've used at least once</h4></br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kshiny&show_icons=true&theme=gruvbox)
+<h4>Techs that I've used at least once</h4>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kshiny&show_icons=true&theme=gruvbox)</br>
 
  
 ----
