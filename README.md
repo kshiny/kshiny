@@ -5,7 +5,7 @@
  ----
   
  <h3>😺 My Github Stats 😺</h3>
-<br><h4>Techs that I've used at least once</h4></br>
+<h4>Techs that I've used at least once</h4>
 
 
 
