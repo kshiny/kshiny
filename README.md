@@ -6,10 +6,9 @@
   <h3>😺 My Github Stats 😺</h3>
   Techs that I've used at least once
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kshiny&show_icons=true&theme=gruvbox)
-</div>
 
 ----
-<div align=center>
+
 <h3>🛠️ My Stack 🛠️ </h3>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=linux&logoColor=black">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=linux&logoColor=black">
