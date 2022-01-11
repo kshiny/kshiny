@@ -26,7 +26,6 @@
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=AmazoneAWS&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-2496ED?style=for-the-badge&logo=MySQL&logoColor=white"></br>
 
----
 
 <h2>📚 My Page 📚</h2>
 <a href="https://github.com/kshiny"><img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/kshiny">
