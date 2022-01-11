@@ -4,7 +4,7 @@
   
  ----
   
- <h1>😼 My Github Stats 😼</h1>
+ <h2>😼 My Github Stats 😼</h2>
   
   
   
