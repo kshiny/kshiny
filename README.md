@@ -2,10 +2,8 @@
   <h4>This is my Github page.
   <br>I am interested in Data Science, Deep Learning and Machie Learning.<br/></h4>
   
- ----
   
  <h2>😼 My Github Stats 😼</h2>
-  
   
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kshiny&show_icons=true&theme=github_dark)
@@ -13,9 +11,8 @@
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkshiny&count_bg=%234785D1&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
-----
 
-<h1>🛠️ My Stack 🛠️</h1>
+<h2>🛠️ My Stack 🛠️</h2>
 <h4>Techs that I've used at least once.</h4>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=black">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=black">
@@ -31,7 +28,7 @@
 
 ---
 
-<h1>📚 My Page 📚</h1>
+<h2>📚 My Page 📚</h2>
 <a href="https://github.com/kshiny"><img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/kshiny">
 <a href="https://www.notion.so/K-SHiny-056eebd2f624483d8fa46d2602f19e81"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/K-SHiny-056eebd2f624483d8fa46d2602f19e81"/></a>
 <a href="https://blog.naver.com/imsh0314"><img src="https://img.shields.io/badge/Blog-03C75A?style=for-the-badge&logo=Naver&logoColor=green&link=https://blog.naver.com/imsh0314">
