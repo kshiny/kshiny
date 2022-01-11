@@ -26,12 +26,12 @@
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black">
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=AmazoneAWS&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-2496ED?style=for-the-badge&logo=MySQL&logoColor=white"></br>
+
+---
 <a href="https://github.com/kshiny"><img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/kshiny">
 <a href="https://blog.naver.com/imsh0314"><img src="https://img.shields.io/badge/Blog-03C75A?style=for-the-badge&logo=Naver&logoColor=green&link=https://blog.naver.com/imsh0314">
 <a href="https://www.notion.so/K-SHiny-056eebd2f624483d8fa46d2602f19e81"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/K-SHiny-056eebd2f624483d8fa46d2602f19e81"/></a>
 <br></br>
-
----
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkshiny&count_bg=%234785D1&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 </div>
