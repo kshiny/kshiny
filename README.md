@@ -6,7 +6,7 @@
  <h2>😼 My Github Stats 😼</h2>
   
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kshiny&show_icons=true&theme=cobalt2)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kshiny&show_icons=true&theme=prussian)
   
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkshiny&count_bg=%234785D1&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
