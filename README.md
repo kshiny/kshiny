@@ -29,5 +29,5 @@
 <a href="https://github.com/kshiny"><img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/kshiny">
 <a href="https://www.notion.so/K-SHiny-056eebd2f624483d8fa46d2602f19e81"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/K-SHiny-056eebd2f624483d8fa46d2602f19e81"/></a>
 <a href="https://blog.naver.com/imsh0314"><img src="https://img.shields.io/badge/Blog-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=https://blog.naver.com/imsh0314">
-<a href="http://www.instagram.com/ok_shiny"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/k__shiny/>
+<a href="http://www.instagram.com/ok_shiny"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/k__shiny>
 </div>
